@@ -16,7 +16,7 @@
 
 - GitHub: [@andres-condezo](https://github.com/andres-condezo)
 - Twitter: [@andres_condezo](https://twitter.com/andres_condezo)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/andres-condezo)
+- LinkedIn: [andres-condezo](https://linkedin.com/in/andres-condezo)
 
 ## 📝 License
 
